@@ -1,0 +1,8 @@
+2018-04-16 17:43:04,365 - INFO - chrome
+2018-04-16 17:43:05,356 - INFO - Had find the element    successful by id via value: kw 
+2018-04-16 17:43:05,560 - INFO - Had type ' selenium ' in inputBox
+2018-04-16 17:43:05,589 - INFO - Had find the element   successful by xpath via value: //input[@id='su'] 
+2018-04-16 17:43:05,674 - INFO - The element   was clicked.
+2018-04-16 17:43:07,677 - INFO - Sleep for 2 seconds
+2018-04-16 17:43:08,401 - INFO - Had  take screenshot and save to folder :/screenshots
+2018-04-16 17:43:08,405 - INFO - Current page title is selenium_百度搜索 
